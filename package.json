@@ -1,0 +1,23 @@
+{
+  "name": "mod-24-testy-task-02-jumpSki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3mik/mod-24-testy-task-02-jumpSki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3mik/mod-24-testy-task-02-jumpSki/issues"
+  },
+  "homepage": "https://github.com/3mik/mod-24-testy-task-02-jumpSki#readme",
+  "devDependencies": {
+    "mocha": "^5.0.5"
+  }
+}
